@@ -1,0 +1,18 @@
+# Raw and large datasets (GitHub par badi files push nahi karni)
+data/raw/
+*.zip
+*.tar.gz
+
+# Python & Jupyter cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Environment files
+.env
+venv/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
